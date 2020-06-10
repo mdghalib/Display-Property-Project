@@ -1,0 +1,23 @@
+.inline1{
+	display: inline;
+}
+
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color:#ff8080;
+	padding:100px 80px 60px 40px;
+}
+
+.box2{
+	width: 100px;
+	height: 100px;
+	background-color:#9999ff;
+	margin: 100px 80px 60px 40px;
+}
+
+.boxmodel{
+	padding: 15px;
+	border: 4px dotted #ff8080;
+	margin: 120px;
+}
